@@ -13,3 +13,15 @@
 4. Calculator using switch
 5. Max(a,b)
 6. Max(a,b,c)
+
+
+## 30 September 2024
+1. Greatest among three numbers using nested if else
+
+2. Greatest among three no. Using ladder else if
+
+3. Program to find the roots of quadratic equation.
+
+4. Program to find the roots of quadratic equation
+
+5. [-] Program to create a calculator using switch case.

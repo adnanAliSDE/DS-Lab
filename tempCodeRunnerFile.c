@@ -1,0 +1,1 @@
+printf("%c",name[i
